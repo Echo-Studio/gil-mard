@@ -50,3 +50,5 @@ Touch/ProjectSettings/ProjectSettings.asset
 *.unity
 
 *.asset
+
+Touch/Assets/Scripts.meta
