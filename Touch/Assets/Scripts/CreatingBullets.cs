@@ -9,7 +9,7 @@ public class CreatingBullets : MonoBehaviour {
 	public float Power;
 	void Update()
 	{
-		if(Input.touchCount == 1)
+		if(Input.GetMouseButtonUp(0))
 		{
 			if(Created == false)
 			{

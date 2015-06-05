@@ -1,10 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Timers;
 
 public class EnemyBulletDesytoring : MonoBehaviour {
 
-	void OnTriggerEnter()
+	public GameObject CreatedBullet;
+	void OnTriggerEnter2D()
 	{
-		Destroy(gameObject);
+		Destroy(CreatedBullet);
 	}
+
 }
