@@ -34,7 +34,7 @@ public class handletouch : MonoBehaviour {
 		switch (touchPhase) {
 		case TouchPhase.Began:
 
-			GameObject g= (GameObject) Instantiate(tir,transform.position,Quaternion.identity);
+			GameObject g= (GameObject) Instantiate(tir,GameObject.FindWithTag("Player").transform.position,Quaternion.identity);
 			g.GetComponent<tirharekat>().haddaf = touchPosition;
 			g.GetComponent<tirharekat>().soratetir = soratetir;
 
