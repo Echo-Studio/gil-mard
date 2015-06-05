@@ -17,7 +17,7 @@ public class EnemyAI : MonoBehaviour {
 			if(Created == false)
 			{
 				GameObject obj = Instantiate(EnemyBullet, transform.position, transform.rotation) as GameObject;
-				obj.GetComponent<Rigidbody>().AddForce(transform.forward * Power);
+				obj.GetComponent<Rigidbody2D>().AddForce(transform.right * Power);
 				Created = true;
 				StartCoroutine(EnemyWatingvoid());
 			}

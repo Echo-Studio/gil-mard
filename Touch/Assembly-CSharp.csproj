@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\Losing.cs" />
      <Compile Include="Assets\Scripts\Winning.cs" />
      <Compile Include="Assets\Scripts\movement.cs" />
+     <Compile Include="Assets\Test.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Applications/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>

@@ -52,13 +52,10 @@
      <Compile Include="Assets\Scripts\Losing.cs" />
      <Compile Include="Assets\Scripts\Winning.cs" />
      <Compile Include="Assets\Scripts\movement.cs" />
+     <Compile Include="Assets\Test.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
-<<<<<<< HEAD
  <HintPath>E:/Echo Files/gil-mard/Touch/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
-=======
- <HintPath>D:/project/gil-mard/Touch/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
->>>>>>> 82e55b617668bf0d96447492ae27a99c00626c3d
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Applications/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>

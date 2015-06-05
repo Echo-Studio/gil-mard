@@ -7,7 +7,6 @@ public class CreatingBullets : MonoBehaviour {
 	public GameObject MyGameObject;
 	public bool Created = false;
 	public float Power;
-	public Transform MyTransformGameObject;
 	void Update()
 	{
 		if(Input.touchCount == 1)
@@ -15,7 +14,7 @@ public class CreatingBullets : MonoBehaviour {
 			if(Created == false)
 			{
 				GameObject obj = Instantiate(MyGameObject, transform.position, transform.rotation) as GameObject;
-				obj.GetComponent<Rigidbody>().AddForce(transform.forward * Power);
+				obj.GetComponent<Rigidbody2D>().AddForce(transform.up * Power);
 				Created = true;
 				StartCoroutine(WatingVoid());
 			}
