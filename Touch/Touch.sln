@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
@@ -24,7 +23,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																								GlobalSection(MonoDevelopProperties) = preSolution
+																									GlobalSection(MonoDevelopProperties) = preSolution
 =======
 																						GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> 82e55b617668bf0d96447492ae27a99c00626c3d
@@ -45,34 +44,6 @@ Global
 		$3.inheritsSet = Mono
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
-	EndGlobalSection
-
-EndGlobal
-=======
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{F0F31C97-00C6-B10D-8A20-DC487B2AE6A8}") = "Touch", "Assembly-CSharp.csproj", "{09FCC79A-E24E-B27A-3E90-5F390D3E24DF}"
-EndProject
-Project("{F0F31C97-00C6-B10D-8A20-DC487B2AE6A8}") = "Touch", "Assembly-UnityScript-firstpass.unityproj", "{DF8B915D-789A-EA7B-806B-7D083DAB60F3}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{09FCC79A-E24E-B27A-3E90-5F390D3E24DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09FCC79A-E24E-B27A-3E90-5F390D3E24DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09FCC79A-E24E-B27A-3E90-5F390D3E24DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09FCC79A-E24E-B27A-3E90-5F390D3E24DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DF8B915D-789A-EA7B-806B-7D083DAB60F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF8B915D-789A-EA7B-806B-7D083DAB60F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF8B915D-789A-EA7B-806B-7D083DAB60F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF8B915D-789A-EA7B-806B-7D083DAB60F3}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 																											GlobalSection(MonoDevelopProperties) = preSolution
 =======
@@ -98,4 +69,3 @@ Global
 	EndGlobalSection
 
 EndGlobal
->>>>>>> origin/master
