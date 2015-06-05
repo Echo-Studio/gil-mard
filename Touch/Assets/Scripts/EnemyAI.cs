@@ -17,7 +17,7 @@ public class EnemyAI : MonoBehaviour {
 			if(Created == false)
 			{
 				GameObject obj = Instantiate(EnemyBullet, transform.position, transform.rotation) as GameObject;
-				obj.GetComponent<Rigidbody>().AddForce(transform.forward * Power);
+				obj.GetComponent<Rigidbody2D>().AddForce(transform.up* Power);
 				Created = true;
 				StartCoroutine(EnemyWatingvoid());
 			}
@@ -25,7 +25,7 @@ public class EnemyAI : MonoBehaviour {
 
 	IEnumerator EnemyWatingvoid()
 	{
-		yield return new WaitForSeconds(5);
+		yield return new WaitForSeconds(1);
 		Created = false;
 	}
 
