@@ -1,6 +1,28 @@
 ﻿<Properties>
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CreatingBullets.cs">
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/firedagger.cs">
+    <Files>
+      <File FileName="Assets/firedagger.cs" Line="13" Column="3" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyBulletDesytoring.cs">
+>>>>>>> 417caef82a767a89e9c0d613538cc3b5480eb31a
+    <Files>
+      <File FileName="Assets\Scripts\CreatingBullets.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\EnemyAI.cs" Line="21" Column="2" />
+      <File FileName="Assets\Scripts\EnemyBulletDesytoring.cs" Line="8" Column="23" />
+>>>>>>> origin/master
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+=======
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench />
+>>>>>>> 1a9a14124fbf4055bfb93f5feba1c743564046b4
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
