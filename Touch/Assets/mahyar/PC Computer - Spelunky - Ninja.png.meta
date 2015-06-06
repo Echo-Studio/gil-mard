@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 772b8e170e501d0458c1fa0d687a7272
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Spelunky - Ninja_0
+    21300002: PC Computer - Spelunky - Ninja_1
+    21300004: PC Computer - Spelunky - Ninja_2
+    21300006: PC Computer - Spelunky - Ninja_3
+    21300008: PC Computer - Spelunky - Ninja_4
+    21300010: PC Computer - Spelunky - Ninja_5
+    21300012: PC Computer - Spelunky - Ninja_6
+    21300014: PC Computer - Spelunky - Ninja_7
+    21300016: PC Computer - Spelunky - Ninja_8
+    21300018: PC Computer - Spelunky - Ninja_9
+    21300020: PC Computer - Spelunky - Ninja_10
+    21300022: PC Computer - Spelunky - Ninja_11
+    21300024: PC Computer - Spelunky - Ninja_12
+    21300026: PC Computer - Spelunky - Ninja_13
+    21300028: PC Computer - Spelunky - Ninja_14
+    21300030: PC Computer - Spelunky - Ninja_15
+    21300032: PC Computer - Spelunky - Ninja_16
+    21300034: PC Computer - Spelunky - Ninja_17
+    21300036: PC Computer - Spelunky - Ninja_18
+    21300038: PC Computer - Spelunky - Ninja_19
+    21300040: PC Computer - Spelunky - Ninja_20
+    21300042: PC Computer - Spelunky - Ninja_21
+    21300044: PC Computer - Spelunky - Ninja_22
+    21300046: PC Computer - Spelunky - Ninja_23
+    21300048: PC Computer - Spelunky - Ninja_24
+    21300050: PC Computer - Spelunky - Ninja_25
+    21300052: PC Computer - Spelunky - Ninja_26
+    21300054: PC Computer - Spelunky - Ninja_27
+    21300056: PC Computer - Spelunky - Ninja_28
+    21300058: PC Computer - Spelunky - Ninja_29
+    21300060: PC Computer - Spelunky - Ninja_30
+    21300062: PC Computer - Spelunky - Ninja_31
+    21300064: PC Computer - Spelunky - Ninja_32
+    21300066: PC Computer - Spelunky - Ninja_33
+    21300068: PC Computer - Spelunky - Ninja_34
+    21300070: PC Computer - Spelunky - Ninja_35
+    21300072: PC Computer - Spelunky - Ninja_36
+    21300074: PC Computer - Spelunky - Ninja_37
+    21300076: PC Computer - Spelunky - Ninja_38
+    21300078: PC Computer - Spelunky - Ninja_39
+    21300080: PC Computer - Spelunky - Ninja_40
+    21300082: PC Computer - Spelunky - Ninja_41
+    21300084: PC Computer - Spelunky - Ninja_42
+    21300086: PC Computer - Spelunky - Ninja_43
+    21300088: PC Computer - Spelunky - Ninja_44
+    21300090: PC Computer - Spelunky - Ninja_45
+    21300092: PC Computer - Spelunky - Ninja_46
+    21300094: PC Computer - Spelunky - Ninja_47
+    21300096: PC Computer - Spelunky - Ninja_48
+    21300098: PC Computer - Spelunky - Ninja_49
+    21300100: PC Computer - Spelunky - Ninja_50
+    21300102: PC Computer - Spelunky - Ninja_51
+    21300104: PC Computer - Spelunky - Ninja_52
+    21300106: PC Computer - Spelunky - Ninja_53
+    21300108: PC Computer - Spelunky - Ninja_54
+    21300110: PC Computer - Spelunky - Ninja_55
+    21300112: PC Computer - Spelunky - Ninja_56
+    21300114: PC Computer - Spelunky - Ninja_57
+    21300116: PC Computer - Spelunky - Ninja_58
+    21300118: PC Computer - Spelunky - Ninja_59
+    21300120: PC Computer - Spelunky - Ninja_60
+    21300122: PC Computer - Spelunky - Ninja_61
+    21300124: PC Computer - Spelunky - Ninja_62
+    21300126: PC Computer - Spelunky - Ninja_63
+    21300128: PC Computer - Spelunky - Ninja_64
+    21300130: PC Computer - Spelunky - Ninja_65
+    21300132: PC Computer - Spelunky - Ninja_66
+    21300134: PC Computer - Spelunky - Ninja_67
+    21300136: PC Computer - Spelunky - Ninja_68
+    21300138: PC Computer - Spelunky - Ninja_69
+    21300140: PC Computer - Spelunky - Ninja_70
+    21300142: PC Computer - Spelunky - Ninja_71
+    21300144: PC Computer - Spelunky - Ninja_72
+    21300146: PC Computer - Spelunky - Ninja_73
+    21300148: PC Computer - Spelunky - Ninja_74
+    21300150: PC Computer - Spelunky - Ninja_75
+    21300152: PC Computer - Spelunky - Ninja_76
+    21300154: PC Computer - Spelunky - Ninja_77
+    21300156: PC Computer - Spelunky - Ninja_78
+    21300158: PC Computer - Spelunky - Ninja_79
+    21300160: PC Computer - Spelunky - Ninja_80
+    21300162: PC Computer - Spelunky - Ninja_81
+    21300164: PC Computer - Spelunky - Ninja_82
+    21300166: PC Computer - Spelunky - Ninja_83
+    21300168: PC Computer - Spelunky - Ninja_84
+    21300170: PC Computer - Spelunky - Ninja_85
+    21300172: PC Computer - Spelunky - Ninja_86
+    21300174: PC Computer - Spelunky - Ninja_87
+    21300176: PC Computer - Spelunky - Ninja_88
+    21300178: PC Computer - Spelunky - Ninja_89
+    21300180: PC Computer - Spelunky - Ninja_90
+    21300182: PC Computer - Spelunky - Ninja_91
+    21300184: PC Computer - Spelunky - Ninja_92
+    21300186: PC Computer - Spelunky - Ninja_93
+    21300188: PC Computer - Spelunky - Ninja_94
+    21300190: PC Computer - Spelunky - Ninja_95
+    21300192: PC Computer - Spelunky - Ninja_96
+    21300194: PC Computer - Spelunky - Ninja_97
+    21300196: PC Computer - Spelunky - Ninja_98
+    21300198: PC Computer - Spelunky - Ninja_99
+    21300200: PC Computer - Spelunky - Ninja_100
+    21300202: PC Computer - Spelunky - Ninja_101
+    21300204: PC Computer - Spelunky - Ninja_102
+    21300206: PC Computer - Spelunky - Ninja_103
+    21300208: PC Computer - Spelunky - Ninja_104
+    21300210: PC Computer - Spelunky - Ninja_105
+    21300212: PC Computer - Spelunky - Ninja_106
+    21300214: PC Computer - Spelunky - Ninja_107
+    21300216: PC Computer - Spelunky - Ninja_108
+    21300218: PC Computer - Spelunky - Ninja_109
+    21300220: PC Computer - Spelunky - Ninja_110
+    21300222: PC Computer - Spelunky - Ninja_111
+    21300224: PC Computer - Spelunky - Ninja_112
+    21300226: PC Computer - Spelunky - Ninja_113
+    21300228: PC Computer - Spelunky - Ninja_114
+    21300230: PC Computer - Spelunky - Ninja_115
+    21300232: PC Computer - Spelunky - Ninja_116
+    21300234: PC Computer - Spelunky - Ninja_117
+    21300236: PC Computer - Spelunky - Ninja_118
+    21300238: PC Computer - Spelunky - Ninja_119
+    21300240: PC Computer - Spelunky - Ninja_120
+    21300242: PC Computer - Spelunky - Ninja_121
+    21300244: PC Computer - Spelunky - Ninja_122
+    21300246: PC Computer - Spelunky - Ninja_123
+    21300248: PC Computer - Spelunky - Ninja_124
+    21300250: PC Computer - Spelunky - Ninja_125
+    21300252: PC Computer - Spelunky - Ninja_126
+    21300254: PC Computer - Spelunky - Ninja_127
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Spelunky - Ninja_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 950
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 950
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 948
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 950
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 951
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 950
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 950
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 950
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 950
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 950
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 868
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 870
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 870
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 870
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 868
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 870
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 870
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 870
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 870
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 870
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_20
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 870
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 870
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 790
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 790
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 799
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 799
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 790
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 790
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 791
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 788
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_30
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 788
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_31
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 787
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 791
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 708
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 708
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 708
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 710
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 710
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 710
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_39
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 710
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_40
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 710
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_41
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 702
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_42
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 704
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_43
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 704
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_44
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 711
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 628
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 629
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 628
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 628
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_49
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 628
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 629
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 628
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 628
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_53
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 630
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 630
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_55
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 628
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 550
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 550
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_58
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 550
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 550
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 550
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 550
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 548
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_63
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 548
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_64
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 548
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_65
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 548
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_66
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 548
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 548
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 470
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 470
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_70
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 470
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_71
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 470
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 470
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_73
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 470
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 467
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 468
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 468
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_77
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 468
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 468
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_79
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 468
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 395
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 390
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 388
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_84
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 395
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 395
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_86
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 392
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 390
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_88
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 388
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_89
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 395
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 310
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 310
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_93
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 310
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_94
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 310
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_95
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 310
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_96
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 310
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 307
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_99
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_100
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 227
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_101
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 227
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 227
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_103
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 227
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_104
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 224
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_105
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 224
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_106
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 227
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_107
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 227
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_108
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 224
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_109
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 224
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_110
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 147
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_111
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 146
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 144
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_113
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 146
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_115
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 146
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_116
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 144
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_117
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 143
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_118
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 145
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_119
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 144
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_120
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 87
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_121
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 77
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 72
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_124
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_126
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 78
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Spelunky - Ninja_127
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 65
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
