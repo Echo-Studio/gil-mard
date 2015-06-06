@@ -15,9 +15,15 @@ public class CreatingBullets : MonoBehaviour {
 			{
 				GameObject obj = Instantiate(MyGameObject, transform.position, transform.rotation) as GameObject;
 				obj.GetComponent<Rigidbody2D>().AddForce(transform.up * Power);
+				Created = true;
+				StartCoroutine(WatingVoid());
 			}
 		}
 	}
 
-
+	IEnumerator WatingVoid()
+	{
+			yield return new WaitForSeconds(1);
+			Created = false;
+	}
 }
