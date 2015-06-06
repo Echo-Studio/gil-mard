@@ -5,9 +5,12 @@ using System.Timers;
 public class EnemyBulletDesytoring : MonoBehaviour {
 
 	public GameObject CreatedBullet;
-	void OnTriggerEnter2D()
+	void OnTriggerEnter2D(Collider2D coll)
 	{
-		Destroy(CreatedBullet);
+		if(coll.tag == "Player")
+		{
+		Destroy(gameObject);
+		}
 	}
 
 }

@@ -1,13 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Losing : MonoBehaviour {
+public class DestroyPlayerBaldeAfterHittingEnemyBlade : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D Colll)
 	{
 		if(Colll.tag == "Enemy")
 		{
-			Destroy(this.gameObject);
+			Destroy(gameObject);
 		}
 	}
 }
