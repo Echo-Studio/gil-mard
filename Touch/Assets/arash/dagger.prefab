@@ -12,7 +12,7 @@ GameObject:
   - 95: {fileID: 9579826}
   - 114: {fileID: 11487680}
   - 50: {fileID: 5003018}
-  - 60: {fileID: 6088210}
+  - 60: {fileID: 6024796}
   m_Layer: 0
   m_Name: dagger
   m_TagString: Knife
@@ -27,7 +27,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100978}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -17.3050575, y: -5.46190929, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -47,7 +47,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
---- !u!60 &6088210
+--- !u!60 &6024796
 PolygonCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -56,21 +56,15 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_Offset: {x: 0, y: 0}
-  m_Points:
+  m_Poly:
     m_Paths:
-    - - {x: -.111671813, y: .225900754}
-      - {x: -.224999994, y: .230000004}
-      - {x: -.233359918, y: .146036834}
-      - {x: -.185753807, y: .124016479}
-      - {x: -.105210923, y: .0156288296}
-      - {x: -.050983496, y: -.0787867755}
-      - {x: .0674263835, y: -.185147166}
+    - - {x: -.224999994, y: .230000004}
+      - {x: -.224999994, y: .0900000036}
+      - {x: -.00499999989, y: -.170000002}
+      - {x: .104999997, y: -.230000004}
       - {x: .224999994, y: -.230000004}
-      - {x: .19416374, y: -.145606607}
-      - {x: .0776397809, y: .00598065183}
-      - {x: -.0369669944, y: .0982447863}
+      - {x: .224999994, y: -.140000001}
+      - {x: -.0649999976, y: .230000004}
 --- !u!95 &9579826
 Animator:
   serializedVersion: 3
@@ -84,8 +78,6 @@ Animator:
   m_CullingMode: 0
   m_UpdateMode: 1
   m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &11487680
@@ -112,19 +104,15 @@ SpriteRenderer:
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
+  m_LightmapIndex: 255
+  m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
-  m_ReflectionProbeUsage: 1
-  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_ImportantGI: 0
-  m_AutoUVMaxDistance: .5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1435538503
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 72db6a5280b574fbe9e54d8ccea4a0c6, type: 3}
@@ -140,3 +128,4 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 100978}
   m_IsPrefabParent: 1
+  m_IsExploded: 1
