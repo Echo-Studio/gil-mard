@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class firedagger : MonoBehaviour {
-	public GameObject knife;
+public class NewCodeForTest : MonoBehaviour {
+
 	// Use this for initialization
 	void Start () {
 	
@@ -10,6 +10,6 @@ public class firedagger : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	 
+	
 	}
 }
