@@ -13,5 +13,8 @@ public class movement : MonoBehaviour {
 		transform.Translate(Vector2.right * Time.deltaTime);
 	}
 
+	void OnTriggerStay2D(Collider2D other) {
+		other.transform.GetComponentInParent<tirenemy>().Fire();
+	}
 
 }

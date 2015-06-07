@@ -2,11 +2,15 @@
 using System.Collections;
 
 public class handletouch : MonoBehaviour {
-	public GameObject tir;
-	public int soratetir=10;
+	public   GameObject ptir;
+	public   int psoratetir=10;
+
+	public static GameObject tir;
+	public static int soratetir=10;
 	// Use this for initialization
 	void Start () {
-	
+		tir=ptir;
+		soratetir=psoratetir;
 	}
 	
 	// Update is called once per frame

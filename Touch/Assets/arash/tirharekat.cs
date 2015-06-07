@@ -49,6 +49,14 @@ public class tirharekat : MonoBehaviour
 		} else if (coll.gameObject.tag == "Ground") {
 			inground = true;
 			GetComponent<Animator> ().enabled = false;
+		} else if (coll.gameObject.tag == "Enemy") {
+			coll.gameObject.GetComponent<EnemyHealth>().Hit();
+			Instantiate (smoke, transform.position, Quaternion.identity);
+			Destroy(gameObject);
+		}else if (coll.gameObject.tag == "Bullet") {
+ 			Instantiate (smoke, transform.position, Quaternion.identity);
+			Destroy(gameObject);
+			Destroy(coll.gameObject);
 		}
 		if (inground) {
 			GetComponent<Animator> ().enabled = false;
