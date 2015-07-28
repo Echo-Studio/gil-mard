@@ -3,10 +3,10 @@ using System.Collections;
 
 public class handletouch : MonoBehaviour {
 	public   GameObject ptir;
-	public   int psoratetir=10;
-
+	public   float psoratetir=10;
+	float jumpHeight=8;
 	public static GameObject tir;
-	public static int soratetir=10;
+	public static float soratetir=10;
 	// Use this for initialization
 	void Start () {
 		tir=ptir;
@@ -16,6 +16,18 @@ public class handletouch : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		// barresi touch
+
+		if (Input.GetKeyDown("space"))
+		{
+			GameObject.FindWithTag("Player").GetComponent<Rigidbody2D> ().AddForce (new Vector2 (0, 200));
+			
+			Vector2 v = GameObject.FindWithTag("Player").GetComponent<Rigidbody2D> ().velocity;
+			v.y = jumpHeight;
+			GameObject.FindWithTag("Player").GetComponent<Rigidbody2D> ().velocity = v;
+
+		}
+
+
 		foreach (Touch touch in Input.touches) {
 			HandleTouch(touch.fingerId, Camera.main.ScreenToWorldPoint(touch.position), touch.phase);
 		}
@@ -38,7 +50,9 @@ public class handletouch : MonoBehaviour {
 		switch (touchPhase) {
 		case TouchPhase.Began:
 
-			GameObject g= (GameObject) Instantiate(tir,GameObject.FindWithTag("Player").transform.position,Quaternion.identity);
+			Vector3 v=GameObject.FindWithTag("Player").transform.position;
+			v.x +=1;
+			GameObject g= (GameObject) Instantiate(tir,v,Quaternion.identity);
 			g.GetComponent<tirharekat>().haddaf = touchPosition;
 			g.GetComponent<tirharekat>().soratetir = soratetir;
 

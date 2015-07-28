@@ -10,7 +10,7 @@ public class chracterHealth : MonoBehaviour {
 	}
 	public void Damage()
 	{
-		damage--;
+		//damage--;
 		if (damage<=0)
 			Destroy(gameObject);
 

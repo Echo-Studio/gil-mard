@@ -33,6 +33,7 @@ Transform:
   m_RootOrder: 0
 --- !u!50 &5079092
 Rigidbody2D:
+  serializedVersion: 2
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -41,11 +42,11 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: .0500000007
   m_GravityScale: 0
-  m_FixedAngle: 0
   m_IsKinematic: 0
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!58 &5896510
 CircleCollider2D:
   m_ObjectHideFlags: 1
@@ -72,7 +73,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   haddaf: {x: 0, y: 0, z: 0}
   soratetir: 1
-  smoke: {fileID: 0}
+  smoke: {fileID: 154798, guid: 4197e5063b14d40a89f8c1a2d75b61f0, type: 2}
   showsmoke: 1
 --- !u!212 &21275296
 SpriteRenderer:
@@ -96,7 +97,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: .5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
+  m_SortingLayerID: -2000066487
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300244, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -106,7 +107,11 @@ Prefab:
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
-    m_Modifications: []
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_SortingLayerID
+      value: -2000066487
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 169174}

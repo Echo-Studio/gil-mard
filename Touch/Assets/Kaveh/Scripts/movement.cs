@@ -14,7 +14,7 @@ public class movement : MonoBehaviour {
 	}
 
 	void OnTriggerStay2D(Collider2D other) {
-		other.transform.GetComponentInParent<tirenemy>().Fire();
+		//other.transform.GetComponentInParent<tirenemy>().Fire();
 	}
 
 }

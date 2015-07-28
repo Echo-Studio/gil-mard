@@ -4,25 +4,28 @@ using System.Collections;
 public class tirharekat : MonoBehaviour
 {
 	public Vector3 haddaf;
-	public int soratetir = 1;
+	public float soratetir = 1;
 	public GameObject smoke;
 	public bool showsmoke = true;
 	bool intraget = false;
 	bool inground = false;
-
+	Vector3 start;
+	int xplus,yplus;
 	// Use this for initialization
 	void Start ()
 	{
-	
+		start=transform.position;
+ 
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
 
-		if (!intraget)
+		if (!intraget){
 			transform.position = Vector3.Lerp (transform.position, haddaf, soratetir * Time.fixedDeltaTime);
-
+			haddaf+=(haddaf-start)/100	;
+ 		}
 		if (transform.position == haddaf) {
 			intraget = true;
 			showsmoke = false;
@@ -46,7 +49,7 @@ public class tirharekat : MonoBehaviour
 			if (showsmoke)
 				Instantiate (smoke, transform.position, Quaternion.identity);
 			Destroy (gameObject);
-		} else if (coll.gameObject.tag == "Ground") {
+		} else if (coll.gameObject.tag == "!Ground") {
 			inground = true;
 			GetComponent<Animator> ().enabled = false;
 		} else if (coll.gameObject.tag == "Enemy") {
@@ -66,7 +69,6 @@ public class tirharekat : MonoBehaviour
 
 			GetComponent<PolygonCollider2D> ().enabled = false;
 		}
-		Debug.Log (coll.gameObject.tag);
-		
+ 
 	}
 }

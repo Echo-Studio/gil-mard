@@ -4,7 +4,7 @@ using System.Collections;
 public class bulletHarekat : MonoBehaviour
 {
 	public Vector3 haddaf;
-	public int soratetir = 1;
+	public float soratetir = 1;
 	public GameObject smoke;
 	public bool showsmoke = true;
 	bool intraget = false;
@@ -42,7 +42,7 @@ public class bulletHarekat : MonoBehaviour
 			coll.gameObject.GetComponent<chracterHealth>().Damage();
 			Destroy(gameObject);
 		}
-		Debug.Log (coll.gameObject.tag);
+		//Debug.Log (coll.gameObject.tag);
 		
 	}
 }

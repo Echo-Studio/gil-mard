@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - Knife
   - Bullet
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -44,4 +45,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2766104425
+    locked: 0
+  - name: 2
+    uniqueID: 2294900809
+    locked: 0
+  - name: 3
+    uniqueID: 237806317
     locked: 0

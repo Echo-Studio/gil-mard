@@ -1,0 +1,321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PC Computer - Spelunky - Ninja_
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.12727733, y: .000365027081, z: .00284462981, w: .991863072}
+        inSlope: {x: .0207991004, y: .246857837, z: 1.92374539, w: -.162085533}
+        outSlope: {x: .0207991004, y: .246857837, z: 1.92374539, w: -.162085533}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: -.125544071, y: .0209365133, z: .163156748, w: .978355944}
+        inSlope: {x: .0207991004, y: .246857837, z: 1.92374539, w: -.162085533}
+        outSlope: {x: .0207991004, y: .246857837, z: 1.92374539, w: -.162085533}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PC Computer - Spelunky - Ninja_127
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0209999997, y: -.243000001, z: .063000001}
+        inSlope: {x: .852002263, y: .35999912, z: -.0959997922}
+        outSlope: {x: .852002263, y: .35999912, z: -.0959997922}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: .0500001907, y: -.213000074, z: .0550000183}
+        inSlope: {x: .852002263, y: .35999912, z: -.0959997922}
+        outSlope: {x: .852002263, y: .35999912, z: -.0959997922}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PC Computer - Spelunky - Ninja_127
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - time: .0833333358
+      value: {fileID: 21300002, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - time: .166666672
+      value: {fileID: 21300004, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - time: .25
+      value: {fileID: 21300006, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - time: .333333343
+      value: {fileID: 21300008, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - time: .416666657
+      value: {fileID: 21300010, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - time: .5
+      value: {fileID: 21300012, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - time: .583333313
+      value: {fileID: 21300014, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - time: .666666687
+      value: {fileID: 21300016, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 4111605693
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4111605693
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 0
+      attribute: 0
+      script: {fileID: 0}
+      classID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - {fileID: 21300002, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - {fileID: 21300004, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - {fileID: 21300006, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - {fileID: 21300008, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - {fileID: 21300010, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - {fileID: 21300012, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - {fileID: 21300014, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+    - {fileID: 21300016, guid: 772b8e170e501d0458c1fa0d687a7272, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .75
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0209999997
+        inSlope: .852002263
+        outSlope: .852002263
+        tangentMode: 10
+      - time: .0833333358
+        value: .0500001907
+        inSlope: .852002263
+        outSlope: .852002263
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.243000001
+        inSlope: .35999912
+        outSlope: .35999912
+        tangentMode: 10
+      - time: .0833333358
+        value: -.213000074
+        inSlope: .35999912
+        outSlope: .35999912
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .063000001
+        inSlope: -.0959997922
+        outSlope: -.0959997922
+        tangentMode: 10
+      - time: .0833333358
+        value: .0550000183
+        inSlope: -.0959997922
+        outSlope: -.0959997922
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.12727733
+        inSlope: .0207991004
+        outSlope: .0207991004
+        tangentMode: 0
+      - time: .0833333358
+        value: -.125544071
+        inSlope: .0207991004
+        outSlope: .0207991004
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .000365027081
+        inSlope: .246857837
+        outSlope: .246857837
+        tangentMode: 0
+      - time: .0833333358
+        value: .0209365133
+        inSlope: .246857837
+        outSlope: .246857837
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00284462981
+        inSlope: 1.92374539
+        outSlope: 1.92374539
+        tangentMode: 0
+      - time: .0833333358
+        value: .163156748
+        inSlope: 1.92374539
+        outSlope: 1.92374539
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .991863072
+        inSlope: -.162085533
+        outSlope: -.162085533
+        tangentMode: 0
+      - time: .0833333358
+        value: .978355944
+        inSlope: -.162085533
+        outSlope: -.162085533
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -14.6246338
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: -14.6246338
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .328643799
+        inSlope: 223.285217
+        outSlope: 223.285217
+        tangentMode: 10
+      - time: .0833333358
+        value: 18.9357452
+        inSlope: 223.285217
+        outSlope: 223.285217
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: PC Computer - Spelunky - Ninja_127
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
